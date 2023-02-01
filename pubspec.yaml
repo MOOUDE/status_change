@@ -6,7 +6,7 @@ homepage: https://github.com/UsamaElgendy/
 repository: https://github.com/UsamaElgendy/status_change
 
 environment:
-  sdk: '>=2.18.6 <3.0.0'
+  sdk: '>=2.18.1 <3.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
